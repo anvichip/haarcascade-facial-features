@@ -35,6 +35,4 @@ The following dependencies are required to run the code:
 - OpenCV: `pip install opencv-python`
 - Google Colab: No additional installation required as it comes with pre-installed libraries.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
