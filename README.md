@@ -33,6 +33,6 @@ To use this code on your own images, follow these steps:
 The following dependencies are required to run the code:
 
 - OpenCV: `pip install opencv-python`
-- Google Colab: No additional installation required as it comes with pre-installed libraries.
+- Google Colab: No installation required as it comes with pre-installed libraries.
 
 
